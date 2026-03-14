@@ -1,6 +1,6 @@
 # Eyemo 이용약관 (Terms of Use / EULA)
 
-**시행일:** (시행일을 기입해 주세요)  
+**시행일:** 2026.03.17
 **앱 이름:** Eyemo (아이모)  
 **패키지명 / Bundle ID:** com.appniche.eyemo
 
